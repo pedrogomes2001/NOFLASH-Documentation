@@ -5,8 +5,8 @@ O objetivo deste projeto é a interação entre usuários através de postagens 
 
 Neste projeto existirão 2 tipos de utilizadores:
 
-    -Administradores
-    -Utilizadores
+    - Administradores
+    - Utilizadores
     
 -PedroDiogo
     
