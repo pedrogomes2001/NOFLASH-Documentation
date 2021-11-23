@@ -8,3 +8,5 @@ Neste projeto existirão 2 tipos de utilizadores:
     -Administradores
     -Utilizadores
     
+-PedroDiogo
+    
