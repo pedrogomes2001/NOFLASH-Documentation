@@ -48,11 +48,3 @@ Disciplina: Desenvolvimento Colaborativo de Sofware & Computação Distribuída
 
 
 
-
-![noflash_logo](https://user-images.githubusercontent.com/72763555/145847448-df5d9ded-b330-405f-a468-cfd8b54b4230.jpeg)
-
-
-
-
-
-
