@@ -27,7 +27,7 @@ Disciplina: Desenvolvimento Colaborativo de Sofware & Computação Distribuída
 
 /Users/{user_id} - GET - getUserId
 
-/Users/{user_id} - PUT - updateUser
+/Users/{user_id} - PUT - updateUserId
 
 /Users/{user_id} - DELETE - deleteUser
 
@@ -42,7 +42,7 @@ Disciplina: Desenvolvimento Colaborativo de Sofware & Computação Distribuída
 
 /Posts - POST - createPosts
 
-/Posts/{posts_id} - PUT - 
+/Posts/{posts_id} - PUT - updatePostId
 
 /Posts/{posts_id} - DELETE - deletePostId
 
