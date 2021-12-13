@@ -1,6 +1,6 @@
 ## NOFLASH - Documentation
 
-Neste projeto será desenvolvido uma página web cujo objetivo permite na atualização rápida de artigos, postagens ou publicações entre usuários.
+Neste projeto será desenvolvido uma página web cujo objetivo permite na atualização rápida de artigos, postagens ou publicações entre utilizadores.
 
 ![noflash_logo](https://user-images.githubusercontent.com/72763555/145847448-df5d9ded-b330-405f-a468-cfd8b54b4230.jpeg)
 
