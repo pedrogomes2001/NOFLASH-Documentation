@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## NOFLASH - Documentation
 
-You can use the [editor on GitHub](https://github.com/pedrogomes2001/ProjetoFinal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Neste projeto será desenvolvido uma página web cujo objetivo permite na atualização rápida de artigos, postagens ou publicações entre usuários.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+Realizado por: Pedro Gomes & Diogo Rocha
+Politécnico: Instituto Politécnico Cávado e do Ave
+Curso: Desenvolvimento Web e Multimédia
+Disciplina: Desenvolvimento Colaborativo de Sofware & Computação Distribuída
+  
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Especificação da API
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pedrogomes2001/ProjetoFinal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+```markdown
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Users
+## Endpoint - HTTP Action - Business Operation
+
+/Users - GET - getAllUsers
+/Users/{user_id} - GET - getUserId
+/Users/{user_id} - PUT - updateUser
+/Users/{user_id} - DELETE - deleteUser
+
+
+# Posts
+/Posts - GET - getAllposts
+/Posts/{posts_id} - GET - getPostId
+/Posts - POST - createPosts
+/Posts/{posts_id} - PUT - 
+/Posts/{posts_id} - DELETE - deletePostId
+
+
+```
+
+
