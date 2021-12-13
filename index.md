@@ -20,16 +20,23 @@ Disciplina: Desenvolvimento Colaborativo de Sofware & Computação Distribuída
 ## Endpoint - HTTP Action - Business Operation
 
 /Users - GET - getAllUsers
+
 /Users/{user_id} - GET - getUserId
+
 /Users/{user_id} - PUT - updateUser
+
 /Users/{user_id} - DELETE - deleteUser
 
 
 # Posts
 /Posts - GET - getAllposts
+
 /Posts/{posts_id} - GET - getPostId
+
 /Posts - POST - createPosts
+
 /Posts/{posts_id} - PUT - 
+
 /Posts/{posts_id} - DELETE - deletePostId
 
 
