@@ -12,10 +12,9 @@ Disciplina: Desenvolvimento Colaborativo de Sofware & Computação Distribuída
 ```
 
 
-### Especificação da API
+```Especificação da API
 
 
-```markdown
 
 # Users
 ## Endpoint - HTTP Action - Business Operation
