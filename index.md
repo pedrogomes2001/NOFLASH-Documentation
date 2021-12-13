@@ -1,4 +1,4 @@
-##NOFLASH - Documentation
+## NOFLASH - Documentation
 
 Neste projeto será desenvolvido uma página web cujo objetivo permite na atualização rápida de artigos, postagens ou publicações entre usuários.
 
@@ -15,11 +15,10 @@ Disciplina: Desenvolvimento Colaborativo de Sofware & Computação Distribuída
 ```
 
 
-```Especificação da API
+## Especificação da API
 
 
-
-##Endpoint - HTTP Action - Business Operation
+## Endpoint - HTTP Action - Business Operation
 
 **Users**
 
