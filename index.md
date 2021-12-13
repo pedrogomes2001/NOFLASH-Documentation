@@ -2,8 +2,10 @@
 
 Neste projeto será desenvolvido uma página web cujo objetivo permite na atualização rápida de artigos, postagens ou publicações entre usuários.
 
+![noflash_logo](https://user-images.githubusercontent.com/72763555/145847448-df5d9ded-b330-405f-a468-cfd8b54b4230.jpeg)
 
 ```
+
 Realizado por: Pedro Gomes & Diogo Rocha
 
 Politécnico: Instituto Politécnico Cávado e do Ave
@@ -11,9 +13,6 @@ Politécnico: Instituto Politécnico Cávado e do Ave
 Curso: Desenvolvimento Web e Multimédia
 
 Disciplina: Desenvolvimento Colaborativo de Sofware & Computação Distribuída
-
-![noflash_logo](https://user-images.githubusercontent.com/72763555/145847448-df5d9ded-b330-405f-a468-cfd8b54b4230.jpeg)
-
 ```
 
 
@@ -46,6 +45,14 @@ Disciplina: Desenvolvimento Colaborativo de Sofware & Computação Distribuída
 /Posts/{posts_id} - PUT - 
 
 /Posts/{posts_id} - DELETE - deletePostId
+
+
+
+
+![noflash_logo](https://user-images.githubusercontent.com/72763555/145847448-df5d9ded-b330-405f-a468-cfd8b54b4230.jpeg)
+
+
+
 
 
 
