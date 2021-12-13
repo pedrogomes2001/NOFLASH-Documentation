@@ -18,9 +18,9 @@ Disciplina: Desenvolvimento Colaborativo de Sofware & Computação Distribuída
 ## Especificação da API
 
 
-## Endpoint - HTTP Action - Business Operation
+## Users
 
-**Users**
+**Endpoint - HTTP Action - Business Operation**
 
 /Users - GET - getAllUsers
 
@@ -31,7 +31,9 @@ Disciplina: Desenvolvimento Colaborativo de Sofware & Computação Distribuída
 /Users/{user_id} - DELETE - deleteUser
 
 
-**Posts**
+## Posts
+
+**Endpoint - HTTP Action - Business Operation**
 
 /Posts - GET - getAllposts
 
@@ -42,6 +44,9 @@ Disciplina: Desenvolvimento Colaborativo de Sofware & Computação Distribuída
 /Posts/{posts_id} - PUT - 
 
 /Posts/{posts_id} - DELETE - deletePostId
+
+
+
 
 
 
