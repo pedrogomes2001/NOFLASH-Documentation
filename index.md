@@ -12,10 +12,12 @@ Curso: Desenvolvimento Web e Multimédia
 
 Disciplina: Desenvolvimento Colaborativo de Sofware & Computação Distribuída
 
+![noflash_logo](https://user-images.githubusercontent.com/72763555/145847448-df5d9ded-b330-405f-a468-cfd8b54b4230.jpeg)
+
 ```
 
 
-## Especificação da API
+# Especificação da API
 
 
 ## Users
@@ -44,15 +46,6 @@ Disciplina: Desenvolvimento Colaborativo de Sofware & Computação Distribuída
 /Posts/{posts_id} - PUT - 
 
 /Posts/{posts_id} - DELETE - deletePostId
-
-
-
-
-
-
-
-
-![noflash_logo](https://user-images.githubusercontent.com/72763555/145847448-df5d9ded-b330-405f-a468-cfd8b54b4230.jpeg)
 
 
 
