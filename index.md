@@ -4,12 +4,13 @@ Neste projeto será desenvolvido uma página web cujo objetivo permite na atuali
 
 
 ```
-
 Realizado por: Pedro Gomes & Diogo Rocha
-Politécnico: Instituto Politécnico Cávado e do Ave
-Curso: Desenvolvimento Web e Multimédia
-Disciplina: Desenvolvimento Colaborativo de Sofware & Computação Distribuída
 
+Politécnico: Instituto Politécnico Cávado e do Ave
+
+Curso: Desenvolvimento Web e Multimédia
+
+Disciplina: Desenvolvimento Colaborativo de Sofware & Computação Distribuída
 
 ```
 
@@ -18,8 +19,9 @@ Disciplina: Desenvolvimento Colaborativo de Sofware & Computação Distribuída
 
 
 
-#Users
 ##Endpoint - HTTP Action - Business Operation
+
+**Users**
 
 /Users - GET - getAllUsers
 
@@ -30,7 +32,7 @@ Disciplina: Desenvolvimento Colaborativo de Sofware & Computação Distribuída
 /Users/{user_id} - DELETE - deleteUser
 
 
-#Posts
+**Posts**
 
 /Posts - GET - getAllposts
 
