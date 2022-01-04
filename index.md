@@ -199,6 +199,7 @@ return app.db('accounts')
 
 /Posts/{posts_id} - DELETE - deletePostId
 
+
 ## Posts Tests
 ```
 test('Teste #1 - Inserir Post', () => {
