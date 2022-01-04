@@ -127,7 +127,7 @@ return app.db('users')
   });
   ```
   
-  ## Accounts Tests
+  ## Acconts Tests
   
   ```
 test('Teste #7 - Inserir contas', () => {
