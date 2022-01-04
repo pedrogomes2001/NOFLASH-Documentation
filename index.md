@@ -91,7 +91,7 @@ request(app).post('/users')
   });
  });
                                       
-test('Test #9 - Listar utilizador por ID', () => {
+test('Test #7 - Listar utilizador por ID', () => {
 return app.db('users')
   .insert({ Dados do Utilizador }, ['id'])
   .then((user) => request(app).get(`${MAIN_ROUTE}/${user[0].id}`))
@@ -102,7 +102,7 @@ return app.db('users')
   });
  });
                                       
-test('Test #10 - Atualizar utilizador', () => {
+test('Test #8 - Atualizar utilizador', () => {
 return app.db('users')
   .insert({ Dados do Utilizador }, ['id'])
   .then((user) => request(app).put(`${MAIN_ROUTE}/${user[0].id}`)
@@ -114,7 +114,7 @@ return app.db('users')
   });
  });
                                       
-test('Test #11 - Remover Utilizador', () => {
+test('Test #9 - Remover Utilizador', () => {
 return app.db('users')
   .insert({ Dados do Utilizador }, ['id'])
   .then((user) => request(app).delete(`${MAIN_ROUTE}/${user[0].id}`)
