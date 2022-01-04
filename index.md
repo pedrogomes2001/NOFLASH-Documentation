@@ -98,7 +98,7 @@ return app.db('users')
   .set('authorization', bearer ${user.token})
   .then((res) => {
   expect(res.status).toBe(200);
-  expect(res.body.name).toBe(Nome do Utilizador);
+  expect(res.body.name).toBe('Nome do Utilizador');
   });
  });
                                       
@@ -110,7 +110,7 @@ return app.db('users')
   .set('authorization', bearer ${user.token})
   .then((res) => {
   expect(res.status).toBe(200);
-  expect(res.body.name).toBe(Utilizador atualizado);
+  expect(res.body.name).toBe('Utilizador atualizado');
   });
  });
                                       
@@ -139,6 +139,11 @@ return app.db('users')
 /Posts/{posts_id} - PUT - updatePostId
 
 /Posts/{posts_id} - DELETE - deletePostId
+
+## Tests
+```
+
+```
 
 
 
