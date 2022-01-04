@@ -125,7 +125,8 @@ return app.db('users')
   });
   });
   ```
-  ## Accounts Tests
+  
+  ## Accounts Tests  
   ```
 test('Teste #7 - Inserir contas', () => {
 return request(app).post(MAIN_ROUTE)
@@ -182,8 +183,7 @@ return app.db('accounts')
   expect(res.status).toBe(204);
   });
 });
-  ´´´
-
+  ```
 
 ## Posts
 
