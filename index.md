@@ -184,6 +184,7 @@ return app.db('accounts')
 });
   ´´´
 
+
 ## Posts
 
 **Endpoint - HTTP Action - Business Operation**
@@ -256,6 +257,4 @@ return app.db('posts')
   });
 });
 ```
-
-
 
