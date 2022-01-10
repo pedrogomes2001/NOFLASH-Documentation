@@ -11,5 +11,7 @@ Neste projeto existirão 2 tipos de utilizadores:
     - Utilizadores
     
 
--PedroDiogo-![logonoflash](https://user-images.githubusercontent.com/72763555/148850160-f3fe83b5-be80-4488-b267-cd96e2acac4b.png)
+-PedroDiogo-
+
+![logonoflash](https://user-images.githubusercontent.com/72763555/148850160-f3fe83b5-be80-4488-b267-cd96e2acac4b.png)
 
